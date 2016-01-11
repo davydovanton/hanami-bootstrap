@@ -1,5 +1,5 @@
 # Lotus::Bootstrap
-[Bootstrap](getbootstrap.com) wrapper for [lotus](lotusrb.org) framework.
+[Bootstrap](http://getbootstrap.com/) wrapper for [lotus](http://lotusrb.org/) framework.
 This wrapper provide HEAD version of bootstrap.
 
 Also you can use [bootstrap-rubygem](https://github.com/twbs/bootstrap-rubygem) gem which support lotus framework.
