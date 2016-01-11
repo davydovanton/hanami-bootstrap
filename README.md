@@ -1,12 +1,12 @@
 # Lotus::Bootstrap
 [Bootstrap](getbootstrap.com) wrapper for [lotus](lotusrb.org) framework.
-This wrapper provide HEAD vresion of bootstrap.
+This wrapper provide HEAD version of bootstrap.
 
 Also you can use [bootstrap-rubygem](https://github.com/twbs/bootstrap-rubygem) gem which support lotus framework.
 
 ## Installation
 **Important:** this wrapper required jquery library.
-You can use [jquery-lotus](https://github.com/Nerian/jquery-lotus) gem or add jquery.js to you asset dirrectory.
+You can use [jquery-lotus](https://github.com/Nerian/jquery-lotus) gem or add jquery.js to you assets directory.
 
 Add this line to your application's Gemfile:
 
@@ -23,7 +23,7 @@ Or install it yourself as:
     $ gem install lotus-bootstrap
 
 ## Usage
-Add butstrap to our tenmplate:
+Add bootstrap to your template:
 
 ``` erb
 <%= stylesheet 'bootstrap' %>
