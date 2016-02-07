@@ -1,10 +1,11 @@
-require "lotus/bootstrap/version"
+require 'hanami/bootstrap/version'
+require 'hanami/assets'
 
-module Lotus
+module Hanami
   module Bootstrap
     class << self
       def load!
-        ::Lotus::Assets.sources << assets_path
+        ::Hanami::Assets.sources << assets_path
       end
 
       def gem_path
@@ -18,4 +19,4 @@ module Lotus
   end
 end
 
-Lotus::Bootstrap.load!
+Hanami::Bootstrap.load!

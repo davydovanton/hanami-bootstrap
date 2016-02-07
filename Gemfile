@@ -1,4 +1,4 @@
 source 'https://rubygems.org'
 
-# Specify your gem's dependencies in lotus-bootstrap.gemspec
+# Specify your gem's dependencies in hanami-bootstrap.gemspec
 gemspec
