@@ -1,5 +1,5 @@
 module Hanami
   module Bootstrap
-    VERSION = '0.4.0'
+    VERSION = '0.5.0'
   end
 end
